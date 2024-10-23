@@ -1,0 +1,7 @@
+brynn@brynn-surface MINGW64 ~/OneDrive/Documents/GitHub/assignment2 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
