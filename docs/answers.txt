@@ -1,0 +1,26 @@
+Git Lab Tutorials: 10/23/24
+GitHub account Creation: 9/25/24
+
+1. brynn@brynn-surface MINGW64 ~/OneDrive/Documents/GitHub/assignment2 (master)
+$ git push
+info: please complete authentication in your browser...
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 484 bytes | 484.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Brynnzilla/assignment2.git
+   228f7bf..ba788ec  master -> master
+
+2. 9. git rev-list --count --all
+3. last modified: Date:   Wed Oct 23 17:00:00 2024 -0500.    git log README.md
+4. Branches are used to make and test changes to code without disrupting the main branch, potentially causing it to fail. It also allows for team members to work on code separately without stepping on toes, while still giving the option to update easily to new works on main. 
+5. Git Status is about the working directory and staged area that you're working in, and git log is about the commit history of files.
+6. git log Vehicle.h
+7. git log --grep=file
+8. Inheritance in OOP is where a child class "inherits" methos and characteristics from it's parent class, in order to reduce the length of code and reuse already made lines. Polymorphism is used in situations with an inherited function that gives the proper information depending on the class using it due to differing definitions or characteristics of the class. Encapsulation is combining multiple variables and methods together into one unit or class.
+
+9. The main difference between the Dictator and Lieutenants Workflow and the Integration manager Workflow is that the Dictator and Lieutenants workflow has multiple stages of conflict resolvement and having a peer look at work, while the integration manager goes through one person or stage of this-- the manager.
+10. In big teams such as 100 developers, the Dictator and Lieutenants Workflow would be beneficial due to how many people are working on the main product, meaning lots of changes or new features. In the centralized workflow, if one developer pushed new code, all of the other developers would have to take time to fix any issues that arise for them from this. With the Dictator workflow, changes would not only be worked on by the lieutenants but also the dictator, where changes would come out more in one big update and have gone through multiple levels of conflict resolution.
